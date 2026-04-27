@@ -130,3 +130,13 @@ Each commit is a message. Each branch is a conversation. Each merge is an agreem
 ## License
 
 AGPL-3.0 — the shell must remain open.
+
+---
+
+## Fleet Context
+
+Part of the Lucineer/Cocapn fleet. See [fleet-onboarding](https://github.com/Lucineer/fleet-onboarding) for boarding protocol.
+
+- **Vessel:** JetsonClaw1 (Jetson Orin Nano 8GB)
+- **Domain:** Low-level systems, CUDA, edge computing
+- **Comms:** Bottles via Forgemaster/Oracle1, Matrix #fleet-ops
